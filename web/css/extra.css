@@ -1,0 +1,96 @@
+.bg-img {
+    /* The image used */
+    background-image: url("../../web/images/Homepic1.jpg");
+
+    min-height: 380px;
+    width: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:0.8;
+
+
+
+
+}
+/* Add styles to the form container */
+.bgcontainer {
+    opacity: 0.9;
+    filter: alpha(opacity=30); /* For IE8 and earlier */
+    position: absolute;
+    right: 90px;
+    top: 50px;
+    border: solid white;
+    margin-top: 50px;
+    max-width: 500px;
+    padding: 16px;
+
+    background-color: white;
+}
+/*
+.text_background{
+    position:absolute;
+    left: 0;
+    top: 0;
+    height:80%;
+    width: 100%;
+    background-color: rgb(0,0,0);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+    opacity: 0.5;
+
+
+}
+*/
+
+.image_text{
+    font-size: 34px;
+
+
+    text-align:center;
+    left: 130px;
+    top: 50px;
+
+    color:white;
+
+}
+
+
+
+/* Full-width input fields
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: solid gray;
+    background: white;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+*/
+
+.bgbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.bgbtn:hover {
+    opacity: 1;
+}
+
+.formtop{
+    background-color: skyblue;
+    height: 10px;
+    width: 100%;
+
+    opacity: 0.9;
+}
