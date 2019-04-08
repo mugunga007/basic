@@ -23,7 +23,7 @@ $this->title = 'My Yii Application';
 
 
             <div class="formtop "></div>
-            <h2>Login for more... </h2>
+            <h2>Already a user?  </h2>
 
             <div class="form-group">
                 <label for="exampleFormControlInput1">Email address</label>
