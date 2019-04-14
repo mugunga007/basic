@@ -26,7 +26,7 @@ $this->title = 'My Yii Application';
             <h2>Already a user?  </h2>
 
             <div class="form-group">
-                <label for="exampleFormControlInput1">Email address</label>
+                <label for="exampleFormControlInput1">Email Address</label>
                 <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
             </div>
 
@@ -44,6 +44,7 @@ $this->title = 'My Yii Application';
 
 
     <div class="body-content">
+
 
 
 
